@@ -50,7 +50,7 @@ class UbuntuMini(cmd.Cmd):
         try:
             # Change the following URL to your GitHub repository URL
             github_repo_url = "git@github.com:accountisgod1/UbuntuMini.git"
-            subprocess.run(["git", "pull", github_repo_url], cwd="C:/Users/User/Documents/A/PythonCMD")
+            subprocess.run(["git", "pull", github_repo_url], cwd="C:/Users/User/Documents/A/PythonCMD/CMD.py")
 
             print("UbuntuMini updated successfully.")
         except Exception as e:
