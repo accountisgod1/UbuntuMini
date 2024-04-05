@@ -1,5 +1,5 @@
 ## About
-This repository is about dicussing with other users about issues, and issue tracking/creating.
+This repository is about discussing with other users about issues, and issue tracking/creating.
 
 
 
