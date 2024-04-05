@@ -9,4 +9,4 @@ Supported with security updates
 ## Reporting a Vulnerability
 
 To report a vulnerability, create an issue. You would be responded by staff members if it is accepted.
-The vulnerability would be fixed in a minor bug fix, major bug fix and an update.
+The vulnerability would be fixed in a minor bug fix or major bug fix or an update.
